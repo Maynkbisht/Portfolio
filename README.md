@@ -5,8 +5,7 @@ A clean, minimal, and responsive personal portfolio website built with pure **HT
 ---
 
 ## 🌐 Live Demo
-
-> _Add your deployed link here (e.g. Netlify / GitHub Pages / Vercel)_
+(https://codeheaveportfolio.netlify.app/)
 
 ---
 
